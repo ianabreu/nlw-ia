@@ -1,5 +1,5 @@
 import axios from "axios"
 
 export const server = axios.create({
-  baseURL: "http://localhost:3333",
+  baseURL: "nlw-fb2qo5qiv-ian-abreus-projects.vercel.app",
 })
